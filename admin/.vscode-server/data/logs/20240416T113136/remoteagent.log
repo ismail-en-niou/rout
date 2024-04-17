@@ -1,0 +1,15 @@
+2024-04-16 11:31:36.556 [info] 
+
+
+
+
+2024-04-16 11:31:36.588 [info] Extension host agent started.
+2024-04-16 11:31:36.851 [error] [<unknown>][d4f7b50f][ExtensionHostConnection] Unknown reconnection token (never seen).
+2024-04-16 11:31:36.853 [error] [<unknown>][fe056dcc][ManagementConnection] Unknown reconnection token (never seen).
+2024-04-16 11:31:55.328 [info] [<unknown>][9cc1509b][ManagementConnection] New connection established.
+2024-04-16 11:31:55.330 [info] [<unknown>][98294c13][ExtensionHostConnection] New connection established.
+2024-04-16 11:31:55.339 [info] [<unknown>][98294c13][ExtensionHostConnection] <320514> Launched Extension Host Process.
+2024-04-16 11:36:36.596 [info] New EH opened, aborting shutdown
+2024-04-16 11:36:36.597 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/admin/.vscode-server/cli/servers/Stable-e170252f762678dec6ca2cc69aba1570769a5d39/server/out/vs/server/node/server.main.js:191:6058)
+    at process.emit (node:events:517:28)

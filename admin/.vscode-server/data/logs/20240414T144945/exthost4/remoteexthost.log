@@ -1,0 +1,17 @@
+2024-04-14 16:15:15.356 [info] Extension host with pid 151746 started
+2024-04-14 16:15:15.356 [error] Error: EEXIST: file already exists, open '/home/admin/.vscode-server/data/User/workspaceStorage/77b26898b2dec31291d79259172bd01b/vscode.lock'
+2024-04-14 16:15:15.359 [info] Lock '/home/admin/.vscode-server/data/User/workspaceStorage/77b26898b2dec31291d79259172bd01b/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-04-14 16:15:15.372 [info] Lock '/home/admin/.vscode-server/data/User/workspaceStorage/77b26898b2dec31291d79259172bd01b/vscode.lock': The lock does not look stale, elapsed: 63 ms, giving up.
+2024-04-14 16:15:15.387 [info] Lock '/home/admin/.vscode-server/data/User/workspaceStorage/77b26898b2dec31291d79259172bd01b-1/vscode.lock': Lock acquired.
+2024-04-14 16:15:15.893 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-14 16:15:15.895 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-04-14 16:15:16.752 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-14 16:15:16.809 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-04-14 16:15:16.993 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-14 16:15:16.993 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-14 16:15:17.441 [info] Eager extensions activated
+2024-04-14 16:15:17.442 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-14 16:15:17.442 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-14 16:31:06.873 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-04-14 16:31:06.876 [info] Lock '/home/admin/.vscode-server/data/User/workspaceStorage/77b26898b2dec31291d79259172bd01b-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-04-14 16:31:06.930 [info] Extension host with pid 151746 exiting with code 0

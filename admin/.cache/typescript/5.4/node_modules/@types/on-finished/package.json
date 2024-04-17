@@ -1,0 +1,32 @@
+{
+    "name": "@types/on-finished",
+    "version": "2.3.4",
+    "description": "TypeScript definitions for on-finished",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/on-finished",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Honza Dvorsky",
+            "githubUsername": "czechboy0",
+            "url": "https://github.com/czechboy0"
+        },
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender",
+            "url": "https://github.com/BendingBender"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/on-finished"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "typesPublisherContentHash": "323884c5ebabc24e20d725326284709b5261196c0c3f2cf4269bcf21e5789a6a",
+    "typeScriptVersion": "4.5"
+}

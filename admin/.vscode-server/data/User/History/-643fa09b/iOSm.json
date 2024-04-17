@@ -1,0 +1,72 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "dart.flutterSdkPath": "P:\\Dart\\flutter",
+    "workbench.iconTheme": "material-icon-theme",
+    "cmake.configureOnOpen": true,
+    "cmake.showOptionsMovedNotification": false,
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "never",
+    "bitoAI.codeCompletion.enableAutoCompletion": true,
+    "bitoAI.codeCompletion.enableCommentToCode": true,
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "explorer.confirmDelete": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "continue.enableTabAutocomplete": false,
+    "mssql.connections": [
+        {
+            "server": "DESKTOP-F4MTHK1",
+            "database": "data",
+            "authenticationType": "Integrated",
+            "encrypt": "Mandatory",
+            "trustServerCertificate": true,
+            "user": "",
+            "password": "",
+            "connectTimeout": 15,
+            "commandTimeout": 30,
+            "applicationName": "vscode-mssql"
+        },
+        {
+            "server": "DESKTOP-F4MTHK1",
+            "database": "data",
+            "authenticationType": "AzureMFA",
+            "user": "zakariaajaddou@gmail.com - zakariaajaddou@gmail.com",
+            "email": "zakariaajaddou@gmail.com",
+            "accountId": "00000000-0000-0000-e75e-f2cd726553b5.9188040d-6c67-4c5b-b112-36a304b66dad",
+            "azureAccountToken": "",
+            "expiresOn": 1712435897,
+            "encrypt": "Mandatory",
+            "trustServerCertificate": true,
+            "password": "",
+            "connectTimeout": 15,
+            "commandTimeout": 30,
+            "applicationName": "vscode-mssql"
+        },
+        {
+            "server": "DESKTOP-F4MTHK1",
+            "database": "data",
+            "authenticationType": "SqlLogin",
+            "user": "minpro",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": false,
+            "encrypt": "Mandatory",
+            "trustServerCertificate": true
+        }
+    ],
+    "remote.SSH.remotePlatform": {
+        "84.247.161.139": "linux"
+    },
+    "window.confirmSaveUntitledWorkspace": false
+}
